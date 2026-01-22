@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hari | GitHub Page</title>
+</head>
+
+<body style="font-family: Arial; background-color:#f4f4f4; padding:20px;">
+
+    <h1>Welcome to My GitHub Page</h1>
+
+    <p>Hello 👋</p>
+    <p>My name is <b>Hari</b>.</p>
+    <p>I am learning <b>Linux, Cloud Computing, and DevOps</b>.</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Linux Basics</li>
+        <li>AWS Cloud</li>
+        <li>DevOps Fundamentals</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:harikeshn0003@gmail.com">harikeshn0003@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/harikeshn" target="_blank">
+        https://github.com/harikeshn
+    </a></p>
+
+    <p>© 2026 Hari</p>
+
+</body>
+</html>
